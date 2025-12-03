@@ -1,0 +1,27 @@
+# --- Virtual environment ---
+env/
+venv/
+.env/
+*.egg-info/
+
+# --- Python cache ---
+__pycache__/
+*.pyc
+
+# --- Jupyter Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- Data files to ignore (optional) ---
+# Uncomment if you have large datasets you don't want to upload
+# *.csv
+# *.xlsx
+# *.parquet
+# *.pkl
+# *.h5
+
+# --- VS Code ---
+.vscode/
+
+# --- System files ---
+.DS_Store
+Thumbs.db
